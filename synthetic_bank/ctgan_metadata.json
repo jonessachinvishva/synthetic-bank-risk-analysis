@@ -1,0 +1,44 @@
+{
+    "columns": {
+        "Age_2024": {
+            "sdtype": "numerical"
+        },
+        "Annual_Income_2024": {
+            "sdtype": "numerical"
+        },
+        "Has_Current_Account": {
+            "sdtype": "categorical"
+        },
+        "Has_Savings": {
+            "sdtype": "categorical"
+        },
+        "Has_Credit_Card": {
+            "sdtype": "categorical"
+        },
+        "Has_Personal_Loan": {
+            "sdtype": "categorical"
+        },
+        "Has_Mortgage": {
+            "sdtype": "categorical"
+        },
+        "Credit_Card_Revolver": {
+            "sdtype": "categorical"
+        },
+        "Current_Account_Balance": {
+            "sdtype": "numerical"
+        },
+        "Savings_Balance": {
+            "sdtype": "numerical"
+        },
+        "Credit_Card_Balance": {
+            "sdtype": "numerical"
+        },
+        "Personal_Loan_Balance": {
+            "sdtype": "numerical"
+        },
+        "Mortgage_Balance": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
