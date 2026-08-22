@@ -1,0 +1,6 @@
+Model,Expected_Direction,Monotonic,Minimum_Change,Maximum_Change
+Current_Accounts,decreasing,True,-364.1442330504651,-364.1442330504069
+Savings_Accounts,increasing,True,1011.6432470458676,1011.6432470459549
+Consumer_Credit,increasing,True,90.21057905787893,90.21057905787893
+Credit_Card_Lending,increasing,True,59.0891561195167,59.08915611953125
+Mortgage_Approvals,Model-dependent (XGBoost),False,-1108.67578125,183.703125
